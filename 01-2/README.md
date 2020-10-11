@@ -1,6 +1,6 @@
 #! https://zhuanlan.zhihu.com/p/264811260
 
-# Tsharp 01-2 单变量微积分
+# [01-2] Tsharp单变量微积分
 
 ![tsharp.png](../01-icon/tsharp-zh.png)
 
