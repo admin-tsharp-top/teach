@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e" modified="2020-10-11T05:25:43.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.0 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" etag="mxL0nZxmDskgiY_3bPrq" version="13.6.5">
+    <diagram id="uKwilG3KA12a6PHzIHJy" name="Page-1">
+        <mxGraphModel dx="1261" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 200px&quot; face=&quot;Comic Sans MS&quot;&gt;Tsharp&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="170" width="670" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;span style=&quot;font-size: 26px&quot;&gt;一个让任何人都能随意学习的社区&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=DengXian Light;" parent="1" vertex="1">
+                    <mxGeometry x="975" y="285" width="410" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;span style=&quot;font-size: 39px&quot;&gt;&lt;font face=&quot;DengXian Light&quot;&gt;目前我们有下列项目：&lt;/font&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="375" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Git&lt;/font&gt;&lt;font face=&quot;DengXian Light&quot;&gt; 基础&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#b0e3e6;strokeColor=#0e8088;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="205" y="460" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 35px&quot;&gt;Markdown&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="550" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 35px&quot;&gt;&lt;font face=&quot;DengXian Light&quot;&gt;单变量微积分&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="165" y="630" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="480" width="690" height="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;font face=&quot;DengXian Light&quot;&gt;访问我们的主页：&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt; tsharp.top&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;DengXian Light&quot;&gt;如果你想向我们供稿，请联系下列邮箱：&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;admin@tsharp.top&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;tsharptop@163.com&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="805" y="560" width="560" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

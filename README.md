@@ -1,4 +1,6 @@
-# README.md
+# Tsharp-teach(Project 01)
+
+![tshap-zh.png](01-icon/tsharp-zh.svg)
 
 本repo是tsharp_docs里所有markdown文件，图片，视频的镜像
 
@@ -14,4 +16,3 @@
 
 那么，欢迎学习ba
 
-Introduction to calculus（微积分初步）[这里](./Single%20variable%20course/Introduction.md)

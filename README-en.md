@@ -1,4 +1,6 @@
-# README-en.md
+# Tsharp-teach(Project 01)
+
+![tsharp-en.png](01-icon/tsharp-en.png)
 
 This repo is a mirror of all markdown, images, videos represented in tsharp_docs
 
@@ -13,5 +15,3 @@ If you got a problem, PR like this:
 If no one responds to your PR, email to this address: admin@tsharp.top. Notice that the domain name might abadoned at no times
 
 Well, good luck studying
-
-Introduction to calculs [Here](Single%20variable%20course/Introduction.md)

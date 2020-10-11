@@ -1,5 +1,5 @@
 #! https://zhuanlan.zhihu.com/p/261348148
-# Introduction.md
+# 01-0-1 向本仓库提交内容所需的软件
 
 本文是供一些非软件开发者使用Git&vscode的文章，这部分人大多不需要使用这类工具作为日常工作的一部分，但是因为发现了tsharp_docs的问题希望提供帮助或者其他原因想要使用的，我们致力与在本文中为其提供帮助
 
@@ -17,7 +17,7 @@
 
 这时候我们应该看到一个黑乎乎的东西，长这样
 
-![cmd.png](./img/cmd.png)
+![cmd.png](./01-0-img/01-0-img-1.png)
 
 内容为：
 
@@ -28,7 +28,7 @@
 
 输入`git`，按下回车，如果这个窗口变成了这样，说明安装正确
 
-![git.png](./img/git.png)
+![git.png](./01-0-img/01-0-img-2.png)
 
 这就是我们所说的`命令行`工具，因为大家不需要太多的操作，我们只需要学会一些简单的命令
 
@@ -66,7 +66,7 @@ Linux平台自带git，无需安装
 
 在刚才的命令行中，输入`git clone https://gitee.com/tsharptop/tsharp_docs.git`，等待一会，出现这样的画面时说明完成：
 
-![](./img/git-clone.png)
+![](./01-0-img/01-0-img-3.png)
 
 注意：不可以使用`Ctrl+C/V`来复制粘贴，在Windows下面使用右键来操作，在macOS上面使用`Command+C/V`来操作
 
